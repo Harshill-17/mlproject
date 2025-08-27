@@ -2,7 +2,7 @@
 
 import sys
 import logging
-
+from src.logger import logging
 # creating my own error_message_detail that except two parametes 1. error 2. error_detail:sys in the sys.
 
 def error_message_detail(error, error_detail:sys) :
