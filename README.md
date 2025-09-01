@@ -69,35 +69,21 @@ Environment: Conda / venv
 ---
 ## 🔄 Workflow
 
-Data Ingestion 📥
-
-Load data from database / CSV
-
-Store raw & processed datasets in artifacts/
-
-Data Transformation 🔧
-
-Handle missing values
-
-Encode categorical features
-
-Feature scaling
-
-Model Training 🤖
-
-Train multiple ML models (e.g., Linear Regression, Random Forest, etc.)
-
-Save best-performing model
-
-Model Evaluation 📊
-
-Evaluate performance on test data
-
-Generate metrics (R², RMSE, Accuracy, etc.)
-
-Prediction Pipeline 🚀
-
-Use trained model for inference on new data
+- Data Ingestion 📥
+- Load data from database / CSV
+- Store raw & processed datasets in artifacts/
+- Data Transformation 🔧
+- Handle missing values
+- Encode categorical features
+- Feature scaling
+- Model Training 🤖
+- Train multiple ML models (e.g., Linear Regression, Random Forest, etc.)
+- Save best-performing model
+- Model Evaluation 📊
+- Evaluate performance on test data
+- Generate metrics (R², RMSE, Accuracy, etc.)
+- Prediction Pipeline 🚀
+- Use trained model for inference on new data
 ---
 ## 🛠 Installation
 
